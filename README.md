@@ -7,3 +7,4 @@ To run the code use the following commands -
 > number_of_chefs number_of_tables number_of_diners  
 
 A simulation will now run.    
+Runs on Linux.
